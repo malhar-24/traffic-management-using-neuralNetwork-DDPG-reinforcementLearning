@@ -5,4 +5,4 @@ There are two models-
   2.Neural Network
 
 
-![image info](screenshot(1).png)
+![image info](Screenshot(1).png)
